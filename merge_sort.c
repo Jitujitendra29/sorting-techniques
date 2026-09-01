@@ -1,3 +1,10 @@
+/*Approach of Merge Sort
+step-1: Divide – Divide the array into two halves.
+step-2: Divide again – Keep dividing each half until every part contains only one element.
+step-3: Conquer – Compare the elements and sort them while combining the smaller parts.
+step-4: Merge – Merge the sorted parts together to form a larger sorted array.
+step-5: Continue merging until the complete array is sorted.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
