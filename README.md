@@ -9,8 +9,6 @@ Designed to understand and practice fundamental sorting and searching algorithms
 * **Insertion Sort** - Builds sorted array one item at a time
 * **Merge Sort** - Divide-and-conquer based sorting algorithm
 * **Quick Sort** - Efficient divide-and-conquer sorting technique
-* **Heap Sort** - Sorting using heap data structure
-* **Shell Sort** - Generalization of insertion sort with gap sequences
 
 ## 🔍 Searching Algorithms Covered
 
