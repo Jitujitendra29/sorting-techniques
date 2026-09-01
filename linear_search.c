@@ -1,3 +1,11 @@
+/*Apporach of linear search
+STEP-1: Start from the first element of the array.
+STEP-2: Compare the current element with the target value.
+STEP-3: If they are equal, return the index (or position) of the element.
+STEP-4: Otherwise, move to the next element.
+STEP-5: Repeat steps 2–4 until the target is found or all elements have been checked.
+STEP-6: If the target is not found, return -1 (or display "Element not found").*/
+
 #include <stdio.h>
 
 int main() {
