@@ -1,3 +1,12 @@
+/*Approach of Quick Sort
+
+STEP-1: First, we choose one element as a pivot.
+STEP-2: Then, we compare the other elements with the pivot.
+STEP-3: Smaller elements are moved to the left of the pivot.
+STEP-4: Larger elements are moved to the right.
+STEP-5: Now the pivot is in its correct position.
+We repeat the same process for the left and right parts until the whole array is sorted.*/
+
 #include <stdio.h>
 
 
