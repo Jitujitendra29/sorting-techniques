@@ -97,7 +97,6 @@ int main() {
 
             case 6:
                 printf("Exiting program\n");
-                printf("Jitendra\n92540118301\n");
                 exit(0);
 
             default:
